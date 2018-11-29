@@ -5,4 +5,5 @@
     <string name="welcome_message_activity">Welcome to Message Activity</string>
     <string name="welcome_final_activity">Welcome to the final activity</string>
     <string name="open_final_activity">Open final activity</string>
+    <string name="welcome_message">Welcome to Android</string>
 </resources>
