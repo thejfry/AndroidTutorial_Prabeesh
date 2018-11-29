@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send_message">Send</string>
+    <string name="welcome_message_activity">Welcome to Message Activity</string>
+    <string name="welcome_final_activity">Welcome to the final activity</string>
+    <string name="open_final_activity">Open final activity</string>
+</resources>
