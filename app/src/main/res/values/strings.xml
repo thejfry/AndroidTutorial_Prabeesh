@@ -8,6 +8,6 @@
     <string name="welcome_message">Welcome to Android</string>
     <string name="headline_fragment">Headline Fragment</string>
     <string name="article_fragment">Article Fragment</string>
-    <string name="send_headline">Send Headline</string>
-    <string name="enter_headline">Enter Headline</string>
+    <string name="open_fragment_activity">Open Fragment Activity:</string>
+    <string name="button_open">Open</string>
 </resources>
