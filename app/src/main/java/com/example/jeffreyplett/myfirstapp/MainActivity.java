@@ -26,4 +26,8 @@ public class MainActivity extends AppCompatActivity {
         
     }
 
+    public void openFragmentActivity(View view){
+        Intent intent = new Intent(this, FragmentRTActivity.class);
+        startActivity(intent);
+    }
 }
